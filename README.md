@@ -9,7 +9,7 @@ A portfolio of work can showcase your skills and talents to employers looking to
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./assets/images/PROFOLIcapture.jpeg)
+![portfolio demo](./assets/images/website.jpeg)
 
 
 ### Deployment: 
