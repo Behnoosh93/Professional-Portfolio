@@ -72,7 +72,7 @@ section {
     padding-right:180px;
   }
 
-  @media only screen  and (max-width:480px) {
+  @media only screen  and (max-width:600px) {
 
     .contentpad
     {
@@ -148,7 +148,7 @@ a:active{
     
 }
 
-@media screen and (max-width:480px)
+@media screen and (max-width:600px)
 {
     .section-title {
         font-size: 20px;
@@ -264,7 +264,7 @@ a:active{
 }
 
 
-@media screen and (max-width:480px)
+@media screen and (max-width:600px)
 {
     .imgresizebig {
        font-size: auto;
@@ -277,7 +277,7 @@ a:active{
     height: 140px;
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 600px){
     .imgresizesmall {
         height: auto;
         font-size: auto;
